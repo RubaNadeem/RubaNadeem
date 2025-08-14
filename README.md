@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @RubaNadeem
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on nothing i am in my learning phase
-- 📫 How to reach me (instagram=arub_a47)
-- 😄 Pronouns: Uhhh... idk 
-- ⚡ Fun fact: nothing :)
+Hi there 👋, I’m Arooba Nadeem
 
+🎓 BS Software Engineering Student | KIET
+💡 Passionate about Artificial Intelligence, Data Analysis, and Web Development
+📚 Currently learning & building projects in C#, Python, HTML, CSS, JavaScript, and SSMS
+🚀 Eager to grow as a developer, contribute to impactful projects, and explore innovative tech solutions.
+
+🔹 About Me
+💻 Worked on projects like Hospital Management Systems, E-commerce Websites, and Library Management Systems.
+📊 Skilled in problem-solving, teamwork, critical thinking, and adaptability.
+🛠 Certified in Python, AI, Front-End Development, and Software Testing.
+🎯 Goal: To create solutions that blend technology with real-world problem-solving.
+
+📬 Let’s Connect:
+LinkedIn:(www.linkedin.com/in/arooba-nadeem-18632a270) | 📧 nadeemarooba73@gmail.com
 <!---
 RubaNadeem/RubaNadeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
